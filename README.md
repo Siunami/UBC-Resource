@@ -4,4 +4,4 @@ A website for incoming UBC students to get to the resources they need.
 
 ## Creator
 
-UBC Resource was created by and is maintained by [Matthew Siu](www.github.com/siunami).
+UBC Resource was created by and is maintained by [Matthew Siu](http://www.github.com/siunami).
