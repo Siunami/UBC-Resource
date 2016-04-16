@@ -100,6 +100,7 @@
                 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
                 <!--<form name="sentMessage" id="contactForm" novalidate>-->
                 <form name="MyForm" action="https://formspree.io/siunami.matt@gmail.com" method="POST">
+                    <input type="hidden" name="_next" value="http://ubcresource.ca/thanks.html" />
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Name</label>
@@ -136,7 +137,6 @@
                         <div class="form-group col-xs-12">
                             <button type="submit" value="Send" class="btn btn-default">Send</button>
                         </div>
-                        <input type="hidden" name="_next" value="http://www.ubcresource.ca/thanks.html" />
                     </div>
                 </form>
             </div>
